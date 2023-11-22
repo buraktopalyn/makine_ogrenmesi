@@ -1,2 +1,2 @@
-## Makine Öğrenmesi Modelleri ve Optimizasyon İşlemleri
+## Makine Öğrenmesi Modelleri ve Optimizasyonları
 ### Basit Doğrusal Regresyon
