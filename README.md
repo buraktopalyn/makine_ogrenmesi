@@ -1,4 +1,5 @@
 ### Makine Öğrenmesi Modelleri
+#### Doğrusal Regresyon Modelleri
 #### • Basit Doğrusal Regresyon: Tek değişken ile basit bir tahmin modeli
 #### • Çoklu Doğrusal Regresyon: Çok değişkenli bir veriseti üzerinden tahmin modeli
 #### • Ridge Regresyon: Ridge ve RidgeCV ile tahmin modeli ve model tuning
