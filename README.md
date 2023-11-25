@@ -7,3 +7,5 @@
 #### ᅳ Ridge Regresyon (Ridge, RidgeCV)
 #### ᅳ Lasso Regresyon (Lasso, LassoCV)
 #### ᅳ ElasticNet Regresyon (ElasticNet, ElasticNetCV)
+### Doğrusal Olmayan Regresyon Modelleri
+#### ᅳ KNN - K En Yakın Komşu (KNeighborsRegressor, GridSearchCV)
