@@ -8,10 +8,10 @@
 #### ᅳ Lasso Regresyon (Lasso, LassoCV)
 #### ᅳ ElasticNet Regresyon (ElasticNet, ElasticNetCV)
 ### Doğrusal Olmayan Regresyon Modelleri
-#### ᅳ KNN - K En Yakın Komşu (KNeighborsRegressor)
-#### ᅳ Destek Vektör Regresyon (SVR)
+#### ᅳ KNN - K En Yakın Komşu (K Nearest Neighbors) (KNeighborsRegressor)
+#### ᅳ Destek Vektör Regresyon (Support Vector Machines) (SVR)
 #### ᅳ Yapay Sinir Ağları (MLPRegressor)
-#### ᅳ Karar Ağacı Regresyon (DecisionTreeRegressor)
+#### ᅳ Karar Ağacı Regresyon (Decision Tree) (DecisionTreeRegressor)
 #### ᅳ Random Forest Regresyon (RandomForestRegressor)
 #### ᅳ Gradient Boosting Machines (GBM) (GradientBoostingRegressor)
 #### ᅳ XGBoost (XGB) (XGBRegressor)
