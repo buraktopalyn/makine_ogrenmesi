@@ -10,3 +10,4 @@
 ### Doğrusal Olmayan Regresyon Modelleri
 #### ᅳ KNN - K En Yakın Komşu (KNeighborsRegressor, GridSearchCV)
 #### ᅳ Destek Vektör Regresyon (SVR, GridSearchCV)
+#### ᅳ Yapay Sinir Ağları (MLPRegressor, GridSearchCV)
