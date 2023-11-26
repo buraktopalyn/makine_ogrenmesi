@@ -14,3 +14,4 @@
 #### ᅳ Karar Ağacı Regresyon (DecisionTreeRegressor)
 #### ᅳ Random Forest Regresyon (RandomForestRegressor)
 #### ᅳ Gradient Boosting Machines (GBM) (GradientBoostingRegressor)
+#### ᅳ XGBoost (XGB) (XGBRegressor)
