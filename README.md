@@ -16,3 +16,4 @@
 #### ᅳ Gradient Boosting Machines (GBM) (GradientBoostingRegressor)
 #### ᅳ XGBoost (XGB) (XGBRegressor)
 #### ᅳ Light GBM (LGBMRegressor)
+#### ᅳ CatBoost (CatBoostRegressor)
