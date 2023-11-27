@@ -19,4 +19,4 @@
 #### ᅳ Light GBM (LGBMRegressor)
 #### ᅳ CatBoost (CatBoostRegressor)
 ### Sınıflandırma Modelleri
-#### ᅳ Lojisitk Regresyon (LogisticRegression)
+#### ᅳ Lojistik Regresyon (LogisticRegression)
