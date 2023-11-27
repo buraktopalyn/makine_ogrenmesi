@@ -24,3 +24,4 @@
 #### ᅳ Destek Vektör Makineleri (Support Vector Classifier) (SVC)
 #### ᅳ Yapay Sinir Ağları (Multi Layer Perceptron) (MLPClassifier)
 #### ᅳ Karar Ağacı Sınıflandırma (Decision Tree) (DecisionTreeClassifier)
+#### ᅳ Random Forest Sınıflandırma (RandomForestClassifier)
