@@ -25,3 +25,7 @@
 #### ᅳ Yapay Sinir Ağları (Multi Layer Perceptron) (MLPClassifier)
 #### ᅳ Karar Ağacı Sınıflandırma (Decision Tree) (DecisionTreeClassifier)
 #### ᅳ Random Forest Sınıflandırma (RandomForestClassifier)
+#### ᅳ Gradient Boosting Machines (GBM) (GradientBoostingClassifier)
+#### ᅳ XGBoost (XGB) (XGBClassifier)
+#### ᅳ Light GBM (LGBMClassifier)
+#### ᅳ CatBoost (CatBoostClassifier)
