@@ -22,3 +22,4 @@
 #### ᅳ Lojistik Regresyon (LogisticRegression)
 #### ᅳ KNN - K En Yakın Komşu (K Nearest Neighbors) (KNeighborsClassifier)
 #### ᅳ Destek Vektör Makineleri (Support Vector Classifier) (SVC)
+#### ᅳ Yapay Sinir Ağları (Multi Layer Perceptron) (MLPClassifier)
