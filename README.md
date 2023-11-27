@@ -20,3 +20,4 @@
 #### ᅳ CatBoost (CatBoostRegressor)
 ### Sınıflandırma Modelleri
 #### ᅳ Lojistik Regresyon (LogisticRegression)
+#### ᅳ KNN - K En Yakın Komşu (K Nearest Neighbors) (KNeighborsClassifier)
