@@ -31,5 +31,5 @@
 #### ᅳ Light GBM (LGBMClassifier)
 #### ᅳ CatBoost (CatBoostClassifier)
 ### Kümeleme Modelleri (Denetimsiz Öğrenme-Unsupervised Learning)
-#### ᅳ KMeans (KMeans)
+#### ᅳ K Ortalamalar (KMeans)
 #### ᅳ Hiyerarşik Kümeleme (Hierarchical Clustering)
