@@ -32,4 +32,4 @@
 #### ᅳ CatBoost (CatBoostClassifier)
 ### Kümeleme Modelleri (Denetimsiz Öğrenme-Unsupervised Learning)
 #### ᅳ KMeans (KMeans)
-#### Hiyerarşik Kümeleme (Hierarchical Clustering)
+#### ᅳ Hiyerarşik Kümeleme (Hierarchical Clustering)
