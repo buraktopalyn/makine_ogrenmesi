@@ -1,14 +1,15 @@
 ## Makine Öğrenmesi Modelleri
 ### Veri Setleri
-#### ᅳ Hitters.csv: Beyzbol oyuncularının performansları, oynadıkları ligler ve maaşları ile ilgilidir.
-#### ᅳ diabetes.csv: Şeker hastalarının sağlık değerleri ile ilgilidir.
-### Doğrusal Regresyon Modelleri
+#### ᅳ Hitters.csv: Beyzbol oyuncularının performansları, oynadıkları ligler ve maaşları
+#### ᅳ diabetes.csv: Şeker hastalarının sağlık değerleri
+#### ᅳ USArrests.csv: ABD Eyaletlerinin suç oranları
+### Doğrusal Regresyon Modelleri (Denetimli Öğrenme-Supervised Learning)
 #### ᅳ Basit Doğrusal Regresyon (LinearRegression)
 #### ᅳ Çoklu Doğrusal Regresyon (LinearRegression)
 #### ᅳ Ridge Regresyon (Ridge, RidgeCV)
 #### ᅳ Lasso Regresyon (Lasso, LassoCV)
 #### ᅳ ElasticNet Regresyon (ElasticNet, ElasticNetCV)
-### Doğrusal Olmayan Regresyon Modelleri
+### Doğrusal Olmayan Regresyon Modelleri (Denetimli Öğrenme-Supervised Learning)
 #### ᅳ KNN - K En Yakın Komşu (K Nearest Neighbors) (KNeighborsRegressor)
 #### ᅳ Destek Vektör Regresyon (Support Vector Machines) (SVR)
 #### ᅳ Yapay Sinir Ağları (Multi Layer Perceptron) (MLPRegressor)
@@ -18,7 +19,7 @@
 #### ᅳ XGBoost (XGB) (XGBRegressor)
 #### ᅳ Light GBM (LGBMRegressor)
 #### ᅳ CatBoost (CatBoostRegressor)
-### Sınıflandırma Modelleri
+### Sınıflandırma Modelleri (Denetimli Öğrenme-Supervised Learning)
 #### ᅳ Lojistik Regresyon (LogisticRegression)
 #### ᅳ KNN - K En Yakın Komşu (K Nearest Neighbors) (KNeighborsClassifier)
 #### ᅳ Destek Vektör Makineleri (Support Vector Classifier) (SVC)
@@ -29,3 +30,5 @@
 #### ᅳ XGBoost (XGB) (XGBClassifier)
 #### ᅳ Light GBM (LGBMClassifier)
 #### ᅳ CatBoost (CatBoostClassifier)
+### Kümeleme Modelleri (Denetimsiz Öğrenme-Unsupervised Learning)
+#### ᅳ KMeans (KMeans)
