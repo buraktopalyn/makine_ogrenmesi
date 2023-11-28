@@ -33,3 +33,4 @@
 ### Kümeleme Modelleri (Denetimsiz Öğrenme-Unsupervised Learning)
 #### ᅳ K Ortalamalar (KMeans)
 #### ᅳ Hiyerarşik Kümeleme (Hierarchical Clustering)
+#### ᅳ Temel Bileşen Analizi (PCA)
