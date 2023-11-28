@@ -3,6 +3,7 @@
 #### ᅳ Hitters.csv: Beyzbol oyuncularının performansları, oynadıkları ligler ve maaşları
 #### ᅳ diabetes.csv: Şeker hastalarının sağlık değerleri
 #### ᅳ USArrests.csv: ABD Eyaletlerinin suç oranları
+#### ᅳ churn.csv: Müşterilerin terk etme bilgileri
 ### Doğrusal Regresyon Modelleri (Denetimli Öğrenme-Supervised Learning)
 #### ᅳ Basit Doğrusal Regresyon (LinearRegression)
 #### ᅳ Çoklu Doğrusal Regresyon (LinearRegression)
@@ -34,3 +35,5 @@
 #### ᅳ K Ortalamalar (KMeans)
 #### ᅳ Hiyerarşik Kümeleme (Hierarchical Clustering)
 #### ᅳ Temel Bileşen Analizi (PCA)
+### Büyük Veri (Big Data)
+#### ᅳ PySpark ile DataFrame İşlemleri, Veri Önişleme ve Makine Öğrenmesi Sınıflandırma Modeli (GBTClassifier)
